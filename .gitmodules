@@ -1,0 +1,9 @@
+[submodule "TZ1"]
+	path = TZ1
+	url = https://github.com/sankficeba/TZ1.git
+[submodule "TZ2"]
+	path = TZ2
+	url = https://github.com/sankficeba/TZ2.git
+[submodule "TZ3"]
+	path = TZ3
+	url = https://github.com/sankficeba/TZ3.git
